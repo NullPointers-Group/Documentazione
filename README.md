@@ -10,4 +10,3 @@ Repository della documentazione del gruppo NullPointers Group, per il corso di I
 | Luca       | Marcuzzo    | 2113198          |
 | Laura      | Pieripolli  | 2048057          |
 | Lisa       | Casagrande  | 2116440          |
-|------------|-------------|------------------|
