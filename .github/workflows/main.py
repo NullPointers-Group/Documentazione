@@ -9,7 +9,7 @@ INDEX_HTML_PATH = Path("index.html")
 SRC_DIR = Path("src")
 OUTPUT_DIR = Path("output")
 SECTION_ORDER = ["RTB", "PB", "Candidatura", "Diario Di Bordo"]
-MAX_DEPTH = 3  # maximum heading depth for HTML
+MAX_DEPTH = 2  # maximum heading depth for HTML
 
 MONTH_IT = {
     1: "Gennaio", 2: "Febbraio", 3: "Marzo", 4: "Aprile",
